@@ -1,0 +1,81 @@
+<h1 align="center">Hi, I'm Jinrui (Jerry) Zhang 👋</h1>
+
+<p align="center">
+  <b>Data Analyst &nbsp;·&nbsp; Business Intelligence &nbsp;·&nbsp; Machine Learning</b><br/>
+  MS Business Analytics @ UC Irvine &nbsp;|&nbsp; Turning data into decisions
+</p>
+
+<p align="center">
+  <a href="https://jerryzhang966.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-jerryzhang966.github.io-blue?style=flat-square&logo=github" alt="Portfolio">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jinrui-zhang-jerry/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jinrui%20Zhang-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:jerryzhang966@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jerryzhang966%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+## About Me
+
+I'm a graduate student in Business Analytics at UC Irvine, passionate about extracting actionable insights from complex data. My work sits at the intersection of machine learning, statistical modeling, and business strategy.
+
+- 🔍 Focused on **classification**, **predictive modeling**, and **BI dashboards**
+- 🧠 Experienced with **imbalanced data**, **feature engineering**, and **model selection**
+- 📊 Comfortable with Python, SQL, and visualization tools
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**ML & Analytics**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Visualization & BI**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+
+---
+
+## 📂 Featured Projects
+
+### 🏦 Predicting Bank Marketing Campaign Subscriptions
+> *UCI BANA 273 · Machine Learning*
+
+A Portuguese bank ran telemarketing campaigns with only **~11% subscription rate**. I built and compared classification models to predict which customers are worth calling — before picking up the phone.
+
+| | Detail |
+|---|---|
+| **Models** | Decision Tree vs. Logistic Regression |
+| **Key challenges** | Severe class imbalance (89:11), data leakage |
+| **Techniques** | SMOTE, GridSearchCV, cross-validation |
+| **Best result** | Logistic Regression after SMOTE + tuning |
+| **Dataset** | UCI Bank Marketing (41,188 records, 20 features) |
+
+**Key finding:** After removing the leaky `duration` feature and applying SMOTE, Logistic Regression significantly outperformed Decision Tree on recall for the minority class — the metric that matters most for campaign targeting.
+
+📎 [Full case study on my portfolio →](https://jerryzhang966.github.io)
+
+---
+
+## 📫 Get in Touch
+
+- **Portfolio:** [jerryzhang966.github.io](https://jerryzhang966.github.io)
+- **LinkedIn:** [linkedin.com/in/jinrui-zhang-jerry](https://www.linkedin.com/in/jinrui-zhang-jerry/)
+- **Email:** jerryzhang966@gmail.com

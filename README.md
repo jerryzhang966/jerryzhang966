@@ -55,6 +55,24 @@ I'm a graduate student in Business Analytics at UC Irvine, passionate about extr
 
 ## 📂 Featured Projects
 
+### 📱 Smartphone Predictive Pricing Analysis
+> *UCI BANA — Data & Programming*
+
+Built a multi-stage regression pipeline to identify which smartphone specs actually drive price — and which are just marketing noise.
+
+| | Detail |
+|---|---|
+| **Models** | OLS → Lasso → Log-Linear → Random Forest |
+| **Best R²** | 0.847 (Log-Linear), 0.823 (Random Forest) |
+| **Key techniques** | LassoCV feature selection, log transformation, residual analysis |
+| **Dataset** | Kaggle Real World Smartphones (980 entries, 22 features) |
+
+**Key finding:** iOS devices command a ~79% price premium over equivalent Android hardware even after controlling for all specs. Meanwhile, features like fast charging and SD card slots show weak or negative price relationships — performance is what consumers actually pay for.
+
+📎 [Full case study on my portfolio →](https://jerryzhang966.github.io)
+
+---
+
 ### 🏦 Predicting Bank Marketing Campaign Subscriptions
 > *UCI BANA 273 · Machine Learning*
 
@@ -65,7 +83,6 @@ A Portuguese bank ran telemarketing campaigns with only **~11% subscription rate
 | **Models** | Decision Tree vs. Logistic Regression |
 | **Key challenges** | Severe class imbalance (89:11), data leakage |
 | **Techniques** | SMOTE, GridSearchCV, cross-validation |
-| **Best result** | Logistic Regression after SMOTE + tuning |
 | **Dataset** | UCI Bank Marketing (41,188 records, 20 features) |
 
 **Key finding:** After removing the leaky `duration` feature and applying SMOTE, Logistic Regression significantly outperformed Decision Tree on recall for the minority class — the metric that matters most for campaign targeting.

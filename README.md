@@ -55,6 +55,24 @@ I'm a graduate student in Business Analytics at UC Irvine, passionate about extr
 
 ## 📂 Featured Projects
 
+### ✈️ Sun Country Airlines Customer Segmentation
+> *UCI BANA 200 — Foundation of Business Analytics*
+
+Applied K-Means clustering to 1.86M trip records to segment Sun Country's customer base into five actionable groups — enabling targeted marketing and loyalty program strategy.
+
+| | Detail |
+|---|---|
+| **Method** | K-Means (k=5, scikit-learn) |
+| **Data** | 1.52M unique customers, 90 variables, 2013–2014 |
+| **Segments** | Family Vacationers, Budget Professionals, Mature Travelers, Group Travelers, Solo Budget |
+| **Key output** | Segment-level marketing playbook + Ufly Rewards targeting |
+
+**Key finding:** A clear elbow at k=5 revealed distinct traveler archetypes — from family vacationers booking tropical round-trips to young professional commuters on the BOS↔DCA corridor — each requiring a different marketing approach.
+
+📎 [Full case study on my portfolio →](https://jerryzhang966.github.io)
+
+---
+
 ### 📱 Smartphone Predictive Pricing Analysis
 > *UCI BANA — Data & Programming*
 

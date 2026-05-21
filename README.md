@@ -55,6 +55,24 @@ I'm a graduate student in Business Analytics at UC Irvine, passionate about extr
 
 ## 📂 Featured Projects
 
+### 🎵 High Note Freemium Conversion Analysis
+> *UCI BANA — Customer & Social Analytics*
+
+Analyzed 43,827 users of a music streaming platform to identify what drives freemium-to-premium conversion — combining descriptive analysis, causal inference, and predictive modeling.
+
+| | Detail |
+|---|---|
+| **Methods** | Descriptive Stats · PSM · Logistic Regression · Forward Subset |
+| **Key finding** | Having ≥1 paying friend causally increases conversion by ~8 pp (ATE = 0.0799, p ≈ 8×10⁻⁶⁰) |
+| **Top predictors** | Loved tracks, songs listened, subscriber friend count, age |
+| **Dataset** | 43,827 users, 15+ behavioral & social variables |
+
+**Key finding:** Peer influence is causal, not just correlated — PSM confirms an 8-point lift after controlling for engagement confounders. Engagement behaviors (loving tracks, making playlists) outpredict all demographic variables combined.
+
+📎 [Full case study on my portfolio →](https://jerryzhang966.github.io)
+
+---
+
 ### ✈️ Sun Country Airlines Customer Segmentation
 > *UCI BANA 200 — Foundation of Business Analytics*
 

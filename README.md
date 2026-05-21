@@ -69,7 +69,7 @@ Analyzed 43,827 users of a music streaming platform to identify what drives free
 
 **Key finding:** Peer influence is causal, not just correlated — PSM confirms an 8-point lift after controlling for engagement confounders. Engagement behaviors (loving tracks, making playlists) outpredict all demographic variables combined.
 
-📎 [Full case study on my portfolio →](https://jerryzhang966.github.io)
+📎 [Full case study on my portfolio →](https://jerryzhang966.github.io/uci-projects-portfolio/Customer-Social/high-note-freemium/)
 
 ---
 
@@ -87,7 +87,7 @@ Applied K-Means clustering to 1.86M trip records to segment Sun Country's custom
 
 **Key finding:** A clear elbow at k=5 revealed distinct traveler archetypes — from family vacationers booking tropical round-trips to young professional commuters on the BOS↔DCA corridor — each requiring a different marketing approach.
 
-📎 [Full case study on my portfolio →](https://jerryzhang966.github.io)
+📎 [Full case study on my portfolio →](https://jerryzhang966.github.io/uci-projects-portfolio/BANA-200/sun-country-segmentation/)
 
 ---
 
@@ -105,7 +105,7 @@ Built a multi-stage regression pipeline to identify which smartphone specs actua
 
 **Key finding:** iOS devices command a ~79% price premium over equivalent Android hardware even after controlling for all specs. Meanwhile, features like fast charging and SD card slots show weak or negative price relationships — performance is what consumers actually pay for.
 
-📎 [Full case study on my portfolio →](https://jerryzhang966.github.io)
+📎 [Full case study on my portfolio →](https://jerryzhang966.github.io/uci-projects-portfolio/Data-Prog/smartphone-pricing/)
 
 ---
 
@@ -123,7 +123,7 @@ A Portuguese bank ran telemarketing campaigns with only **~11% subscription rate
 
 **Key finding:** After removing the leaky `duration` feature and applying SMOTE, Logistic Regression significantly outperformed Decision Tree on recall for the minority class — the metric that matters most for campaign targeting.
 
-📎 [Full case study on my portfolio →](https://jerryzhang966.github.io)
+📎 [Full case study on my portfolio →](https://jerryzhang966.github.io/uci-projects-portfolio/ML/bank-marketing-ml/)
 
 ---
 

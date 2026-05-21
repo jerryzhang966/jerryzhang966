@@ -127,6 +127,24 @@ A Portuguese bank ran telemarketing campaigns with only **~11% subscription rate
 
 ---
 
+### 🏭 Global Supply Chain Management Simulation
+> *UCI BANA — Supply Chain Analytics*
+
+Managed a simulated smartphone company through 4 years of supply chain decisions — balancing demand forecasting, supplier selection, and inventory risk across two product lines with asymmetric cost structures.
+
+| | Detail |
+|---|---|
+| **Simulation** | Harvard Business Publishing GSCM V2 |
+| **Decision areas** | Product design · Demand forecasting · Supplier sourcing · Production orders |
+| **Key challenge** | Asymmetric inventory costs: Model B liquidation far exceeds Model A holding cost |
+| **Total profit** | $197,480,640 across 4 years |
+
+**Key finding:** Minimizing demand variance through design option selection outperformed maximizing expected demand — a lower-mean, lower-variance design consistently beat a higher-mean, higher-uncertainty option across all four years.
+
+📎 [Full case study on my portfolio →](https://jerryzhang966.github.io/uci-projects-portfolio/SCM/supply-chain-simulation/)
+
+---
+
 ## 📫 Get in Touch
 
 - **Portfolio:** [jerryzhang966.github.io](https://jerryzhang966.github.io)

@@ -23,7 +23,7 @@
 
 ## About Me
 
-I'm a graduate student in Business Analytics at UC Irvine, passionate about extracting actionable insights from complex data. My work sits at the intersection of machine learning, statistical modeling, and business strategy.
+I'm an MS Business Analytics graduate from UC Irvine (Paul Merage School of Business, Class of 2026), passionate about extracting actionable insights from complex data. Most recently, I served as Analysis Lead on a capstone project with a leading PropTech company — integrating CRM and conversational AI data to uncover what drives Sales Engineering deal success. My work sits at the intersection of machine learning, statistical modeling, and business strategy.
 
 - 🔍 Focused on **classification**, **predictive modeling**, and **BI dashboards**
 - 🧠 Experienced with **imbalanced data**, **feature engineering**, and **model selection**
@@ -54,6 +54,24 @@ I'm a graduate student in Business Analytics at UC Irvine, passionate about extr
 ---
 
 ## 📂 Featured Projects
+
+### ⭐ Maximizing Sales Engineering Performance — MSBA Capstone
+> *UCI Paul Merage MSBA Capstone · Jan – June 2026 · Role: Analysis Lead*
+
+Partnered with a leading PropTech company to quantify what drives Sales Engineering deal success — SE impact was invisible in the CRM with no way to tie SE activity to revenue outcomes. Integrated 43K Gong conversation recordings with 6,039 Salesforce CRM opportunities and tested 5 behavioral hypotheses using chi-square, z-tests, and logistic regression.
+
+| | Detail |
+|---|---|
+| **Methods** | Chi-square · Z-tests · Logistic Regression · Interaction Analysis |
+| **Data** | 6,039 Salesforce opps · 43K Gong calls · 802 fully-matched deals |
+| **Key finding 1** | Multi-product SE engagement lifts win rate 34.6% → **67.1%** (+32pp) |
+| **Key finding 2** | Outside-sales SE gap >$50K = **~$555K untapped** incremental ACV |
+| **Key finding 3** | Balanced talk ratio (40–55%) predicts wins only in mid-tier $5K–$27K deals |
+| **Deliverable** | Win-probability scoring dashboard for real-time deal prioritization |
+
+📎 [Full case study on my portfolio →](https://jerryzhang966.github.io/uci-projects-portfolio/capstone/cotality-se-performance/)
+
+---
 
 ### 🎵 High Note Freemium Conversion Analysis
 > *UCI BANA — Customer & Social Analytics*
@@ -150,3 +168,4 @@ Managed a simulated smartphone company through 4 years of supply chain decisions
 - **Portfolio:** [jerryzhang966.github.io](https://jerryzhang966.github.io)
 - **LinkedIn:** [linkedin.com/in/jinrui-zhang-jerry](https://www.linkedin.com/in/jinrui-zhang-jerry/)
 - **Email:** jerryzhang966@gmail.com
+
